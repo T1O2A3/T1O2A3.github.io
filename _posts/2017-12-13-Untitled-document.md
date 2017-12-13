@@ -3,14 +3,12 @@ title: Untitled document
 layout: post
 author: thomas.cox
 permalink: /untitled-document/
-source-id: 12XenBvKS5i_yDSDW5hKOLcPbow58JgDqaON7ZHLQ0ac
+source-id: 19jldrXRX5tec_vzM10XGVggURqbhkatVu7UmZTDU4W4
 published: true
 ---
-**_Fourth Blog_**
+**5th Blog**
 
-*In today's lesson we did so more fuze box activities. . For that lesson we programmed our fuze box to make jokes, our joke was " why were the harry potter films so unrealistic because the ginger kid had two friends".*
+**In today's lesson, we carried on with the FUZE box. We made a start on LEDs. It was very difficult for me and Dan as we didn't really understand the instructions from the booklet as the pictures were hard to tell where you insert the cable. I tried but failed.**
 
-*We also programmed it to answer some simple mathematics questions. It can have a small conversation like for example,the conversation might be, "how many apples do you have?" and the reply would be “Well,if I had 10 apples but took one away,then I would have 9.”*
-
-*If there was anything I could improve on(there are lots)one would be that I actually got involved instead of messing around a bit and laughing at poor Dan and Millan as it was so funny watching them work really hard. I admire them for their perseverance.*
+**By this, we could say that this lesson wasn't a successful one. If I could improve on anything, it would be that I don’t give up so easily.**
 
