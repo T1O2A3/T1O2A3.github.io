@@ -3,12 +3,12 @@ title: Untitled document
 layout: post
 author: thomas.cox
 permalink: /untitled-document/
-source-id: 1SslLxQoXf6y-s1Z6abwGHX5EPHG40Pnc0WuCGyXvJNk
+source-id: 19fCD6ZFRtpS2P9QXpiB83X5FcJEcWp3bqiVpodHZbGA
 published: true
 ---
-Blog 12
+*Blog*
 
-Today we looked at some more code academy and so I made some more progress.
+*In this weeks lesson we learnt about code academy and what it does is it makes lots of different code based tasks and makes them into lots of different challenges that you have to complete.*
 
-In that code acadomy lesson I was able to go up to 40%. The main thing I was focusing on was lists and creating them. The next thing I did was some more things on strings and so that's what I spent the lesson doing. Then our homework was to do 30 mins at home which meant I was then on 45%.
+*And so in that lesson I was working on some code to do with lots of different types of strings which are a consumable in code terms so that was good because it meant I got to grips with that.*
 
